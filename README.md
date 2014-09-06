@@ -50,7 +50,6 @@ Pište v [Markdownu](http://daringfireball.net/projects/markdown/) a posílejte 
 ### Korunky
 
 Peníze posílejte na 2400293585/[2010](http://www.fio.cz/), nejlépe s nějakou zprávou, podle které je rozliším - např. "JPA".
-<!-- TODO: PayPal? Flattr? GitTip? -->
 
 ## Tiráž
 
@@ -71,3 +70,5 @@ Chcete-li, aby vám Honza odvyprávěl zde sepsané vědomosti naživo, domluvte
 href="mailto:mail&#64;honzajavorek.cz">mail&#64;honzajavorek.cz</a>&gt;
 
 Toto dílo podléhá licenci [Creative Commons Uveďte autora-Nevyužívejte dílo komerčně-Zachovejte licenci 3.0 Česko](https://creativecommons.org/licenses/by-nc-sa/3.0/cz/).
+
+(*Nevyužívejte dílo komerčně* neznamená, že zde nabyté vědomosti nesmíte použít na svém komerčním API, ale že nesmíte tyto stránky seskládat do knížky a prodávat.)
