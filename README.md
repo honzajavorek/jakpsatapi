@@ -22,7 +22,7 @@ Navíc věřím tomu, že nejlepší způsob jak psát API je tvořit je stejný
 
 - Dokumentace
 - Verzování
-- Chyby
+- [Chyby](chyby.md)
 - Autorizace a autentikace
 - Parametrizace odpovědi
 - HTTP
