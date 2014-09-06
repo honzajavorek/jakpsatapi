@@ -45,7 +45,7 @@ Navíc věřím tomu, že nejlepší způsob jak psát API je tvořit je stejný
 
 ### Písmenka
 
-Pište v [Markdownu](http://daringfireball.net/projects/markdown/) a posílejte [pull requesty](http://help.github.com/send-pull-requests/). Uvítám v [issues](https://github.com/honzajavorek/jakpsatapi/issues) opravy chyb, nové články i nejrůznější polemiky.
+Pište v [Markdownu](http://daringfireball.net/projects/markdown/) a posílejte [pull requesty](http://help.github.com/send-pull-requests/). Uvítám v [issues](https://github.com/honzajavorek/jakpsatapi/issues) opravy chyb, nové články i nejrůznější polemiky. *Commit messages* pište česky a jako celé věty (s tečkou na konci).
 
 ### Korunky
 
