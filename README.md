@@ -20,8 +20,9 @@ Navíc věřím tomu, že nejlepší způsob jak psát API je tvořit je stejný
 
 ## Obsah
 
+- Základy
 - Dokumentace
-- Verzování
+- [Verzování](verzovani.md)
 - [Chyby](chyby.md)
 - Autorizace a autentikace
 - Parametrizace odpovědi
@@ -31,6 +32,8 @@ Navíc věřím tomu, že nejlepší způsob jak psát API je tvořit je stejný
     - HTTP 2.0
 - REST
     - REST vs. SOAP
+    - Sloveso v URL je "code smell"
+    - Asynchronní odpovědi, hooky
 - Hypermedia (HATEOAS)
     - Formáty
 - JSON
@@ -50,6 +53,10 @@ Pište v [Markdownu](http://daringfireball.net/projects/markdown/) a posílejte 
 ### Korunky
 
 Peníze posílejte na 2400293585/[2010](http://www.fio.cz/), nejlépe s nějakou zprávou, podle které je rozliším - např. "JPA".
+
+## Kvalita a objektivita
+
+Nemám patent na rozum a zároveň mám určité názory, jak by se měly věci dělat. Obsah Jak psát API tím rozhodně je a bude ovlivněn. Pokud najdete chybu, pokud byste nad nějakým tématem rádi polemizovali nebo si myslíte, že si zaslouží smířlivější a obecnější tón, pojďte s tím do [issues](https://github.com/honzajavorek/jakpsatapi/issues). Věřím v pluralitu názorů a vzájemné obohacení z věcných diskusí.
 
 ## Tiráž
 
