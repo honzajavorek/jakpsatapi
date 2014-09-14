@@ -20,7 +20,7 @@ Navíc věřím tomu, že nejlepší způsob jak psát API je tvořit je stejný
 
 ## Obsah
 
-- Základy
+- [Základy](zaklady.md)
 - Dokumentace
 - [Verzování](verzovani.md)
 - [Chyby](chyby.md)
