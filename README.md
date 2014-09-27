@@ -43,6 +43,7 @@ Navíc věřím tomu, že nejlepší způsob jak psát API je tvořit je stejný
     - nezávislé na jazyku
     - [Python](python.md)
     - Ruby
+    - [C# a .NET](c-sharp-a-dotnet.md)
 - [Další zdroje](dalsi-zdroje.md)
 
 ## Jak přispívat?
