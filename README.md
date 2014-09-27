@@ -21,29 +21,29 @@ Navíc věřím tomu, že nejlepší způsob jak psát API je tvořit je stejný
 ## Obsah
 
 - [Základy](zaklady.md)
-- Dokumentace
+- <del>[Dokumentace](dokumentace.md)</del>
 - [Verzování](verzovani.md)
 - [Chyby](chyby.md)
-- Autorizace a autentikace
-- Parametrizace odpovědi
-- HTTP
-    - Content Negotiation
-    - Kešování
-    - HTTP 2.0
-- REST
-    - REST vs. SOAP
-    - Sloveso v URL je "code smell"
-    - Asynchronní odpovědi, hooky
-- Hypermedia (HATEOAS)
-    - Formáty
+- <del>[Autentizace a autorizace](autentizace-autorizace.md)</del>
+- <del>[Parametrizace odpovědi](parametrizace.md)</del>
+- <del>[HTTP](http.md)</del>
+    - <del>[Content Negotiation](content-negotiation.md)</del>
+    - <del>[Kešování](kesovani.md)</del>
+    - <del>[HTTP 2.0](http-20.md)</del>
+- <del>[REST](rest.md)</del>
+    - [REST vs. SOAP](rest-soap.md)
+    - <del>[Sloveso v URL je "code smell"](sloveso-url.md)</del>
+    - <del>[Asynchronní odpovědi, hooky](asynchronnost-hooky.md)</del>
+    - <del>[Hromadné požadavky (bulk, batch)](hromadne-pozadavky.md)</del>
+- <del>[Hypermedia (HATEOAS)](hypermedia.md)</del>
+    - <del>[Formáty](hypermedia-formaty.md)</del>
 - JSON
-    - Schema
-    - PATCH
-- Nástroje a knihovny
-    - nezávislé na jazyku
+    - <del>[Schema](json-schema.md)</del>
+    - <del>[PATCH](json-patch.md)</del>
+- <del>[Nástroje a knihovny](nastroje.md)</del>
     - [Python](python.md)
-    - Ruby
-    - [C# a .NET](c-sharp-a-dotnet.md)
+    - <del>Ruby</del>
+    - [C# a .NET](c-sharp-dotnet.md)
 - [Další zdroje](dalsi-zdroje.md)
 
 ## Jak přispívat?
