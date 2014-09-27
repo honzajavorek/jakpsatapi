@@ -41,7 +41,7 @@ Navíc věřím tomu, že nejlepší způsob jak psát API je tvořit je stejný
     - PATCH
 - Nástroje a knihovny
     - nezávislé na jazyku
-    - Python
+    - [Python](python.md)
     - Ruby
 - [Další zdroje](dalsi-zdroje.md)
 
