@@ -26,7 +26,7 @@ Vytvářejte prototypy, které si budou moci tvůrci klientů ihned vyzkoušet. 
 
 A až budete mít API hotové a bude v provozu, testujte jej a sledujte jaké chyby jeho uživatelé dělají. Budete jim moci poskytnout kvalitnější podporu a budete schopni upravit dokumentaci nebo návrh tak, aby se konzumenti vašeho API mohli chyb třeba úplně vyvarovat.
 
-## Apiary
+## API Blueprint
 
 [Apiary](http://apiary.io/), kde pracuji, poskytuje nástroje pro velkou část z nastíněného cyklu. [API Blueprint](http://apiblueprint.org/) je dokumentační formát, v němž můžete popsat celé svoje API pomocí lidsky čitelného i zapisovatelného [Markdownu](http://daringfireball.net/projects/markdown/) (něco jako [Texy!](http://texy.info/), akorát na rozdíl od něj Markdown používá celý svět - [StackOverflow](http://stackoverflow.com/), [GitHub](http://github.com/), a další). V jednom snadno spravovatelném textovém souboru pak máte zakódováno DNA vašeho API. Můžete jej sdílet, verzovat, bavit se nad ním s lidmi.
 
