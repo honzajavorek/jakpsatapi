@@ -10,7 +10,7 @@ Protože REST je už popsán [o stránku vedle](rest.md), přeskočme rovnou k v
 
 *Simple Object Access Protocol* nakonec moc "simple" vlastně není. Je to standardizovaný protokol založený na XML a vynalezl jej Microsoft jako náhradu za binární formáty, se kterými se přes HTTP pracovalo špatně.
 
-XML, které běhá po síti a do něhož se v SOAP zabalují instrukce mezi službami, je většinou extrémně komplexní a lidsky naprosto nečitelné. Neexistuje moc reálná možnost, že byste si je ve svém oblíbeném jazyce skládali nebo četli "ručně". Potřebujete knihovnu, která to udělá za vás. Knihovnou jste zpravidla zcela odstíněni od komunikace a zmíněné XML nikdy v praxi nezahlédnete.
+XML, které běhá po síti a do něhož se v SOAP zabalují instrukce mezi službami, je většinou extrémně komplexní a lidsky naprosto nečitelné. Můžete si jej ve svém oblíbeném jazyce skládat nebo číst "ručně", ale většinou to dělat nechcete. Potřebujete knihovnu, která to udělá za vás. Knihovnou jste zpravidla zcela odstíněni od komunikace, takže zmíněné XML nikdy v praxi nezahlédnete.
 
 WSDL (*Web Services Description Language*) je další XML, jež kompletně definuje jak má vaše WS (*Web Service*) fungovat. Pokud takový předpis předhodíte svému všemocnému [IDE](https://cs.wikipedia.org/wiki/V%C3%BDvojov%C3%A9_prost%C5%99ed%C3%AD) a pracujete v nějakém vyvoleném jazyce jako Java nebo .NET, vlastně už ani nemusíte ručně nic dělat. [WSDL](https://cs.wikipedia.org/wiki/Web_Services_Description_Language) je formální kontrakt mezi klientem a serverem.
 
