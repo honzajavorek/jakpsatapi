@@ -21,8 +21,8 @@ Navíc věřím tomu, že nejlepší způsob jak psát API je tvořit je stejný
 ## Obsah
 
 - [Základy](zaklady.md)
-- <del>[Dokumentace](dokumentace.md)</del>
 - [Životní cyklus návrhu](zivotni-cyklus.md)
+- <del>[Dokumentace](dokumentace.md)</del>
 - [Verzování](verzovani.md)
 - [Chyby](chyby.md)
 - <del>[Autentizace a autorizace](autentizace-autorizace.md)</del>
