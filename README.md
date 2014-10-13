@@ -8,11 +8,11 @@ API znamená *application programming interface* a v IT tato zkratka znamená [s
 
 Webová API jsou souhrnný název pro taková rozhraní, která jsou založená na stejných technologiích, na jakých běží web. Tzn. že jako nosný protokol zpravidla používají HTTP nebo HTTPS a komunikace se většinou odehrává ve formátech jako XML, JSON, apod. Příkladem budiž třeba [API Facebooku](https://developers.facebook.com/docs/graph-api).
 
-Schválně nepoužívám výraz [REST API](https://cs.wikipedia.org/wiki/Representational_state_transfer), protože znamená něco úplně jiného. Nejblíže popisu výše je možná HTTP API, ale označení *webová API* mi přijde o dost lidštější a v angličtině se navíc spojení *web APIs* zcela běžně používá.
+Schválně nepoužívám výraz [REST API](https://cs.wikipedia.org/wiki/Representational_state_transfer), protože znamená [něco trochu jiného](zaklady.md). Nejblíže popisu výše je možná HTTP API, ale označení *webová API* mi přijde o dost lidštější a v angličtině se navíc spojení *web APIs* zcela běžně používá.
 
 ## Co má společného Jak psát API s Jak psát web?
 
-Dalo by se říci že nic, protože **Jak psát API** píše úplně jiný člověk a žádné partnerství s **Jak psát web** neexistuje. Název jsem ale nezvolil proto, abych se přiživil na slávě JPW a Yuhůa. Vybral jsem jej proto, že ve webových API vidím velkou budoucnost a věřím, že JPA by mohlo jednou být stejně potřebné, jako dříve JPW.
+Dalo by se říci že nic, protože **Jak psát API** píše úplně jiný člověk a žádné partnerství s **Jak psát web** neexistuje. Název jsem ale nezvolil proto, abych se přiživil na slávě JPW a [Yuhůa](http://dusan.pc-slany.cz/). Vybral jsem jej proto, že ve webových API vidím velkou budoucnost a věřím, že JPA by mohlo jednou být stejně potřebné, jako dříve JPW.
 
 Doby, kdy si firmy hledaly cestu na Internet (tehdy jednoznačně s velkým I!) a kdy najednou i pekař ve vaší ulici zjisti, že by nejspíš měl mít nějaký web, ty jsou za námi. Čeká nás ale dost podobné období na poli webových API - díky potřebě integrací, mobilních aplikací, [Internet of Things](https://cs.wikipedia.org/wiki/Internet_v%C4%9Bc%C3%AD) aj. trendům brzy i kdejaká menší firma zjistí, že bez API jako kdyby neexistovala.
 
