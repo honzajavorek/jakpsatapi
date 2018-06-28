@@ -1,3 +1,5 @@
+> Toto dílo jsem nikdy pořádně nezačal ani nedokončil. Co jsem napsal, to tady je. Nové texty nepřidávám, staré neudržuji, ale třeba se to bude i tak někomu hodit.
+
 # Jak psát API
 
 Znáte **[Jak psát web](http://www.jakpsatweb.cz)**, návod na HTML stránky? Toto je **Jak psát API**, návod na webová API.
