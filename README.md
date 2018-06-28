@@ -53,10 +53,6 @@ Navíc věřím tomu, že nejlepší způsob jak psát API je tvořit je stejný
 
 Pište v [Markdownu](http://daringfireball.net/projects/markdown/) a posílejte [pull requesty](http://help.github.com/send-pull-requests/). Uvítám v [issues](https://github.com/honzajavorek/jakpsatapi/issues) opravy chyb, nové články i nejrůznější polemiky. *Commit messages* pište česky a jako celé věty (s tečkou na konci).
 
-### Korunky
-
-Peníze posílejte na 2400293585/[2010](http://www.fio.cz/), nejlépe s nějakou zprávou, podle které je rozliším - např. "JPA".
-
 ## Kvalita a objektivita
 
 Nemám patent na rozum a zároveň mám určité názory, jak by se měly věci dělat. Obsah Jak psát API tím rozhodně je a bude ovlivněn. Pokud najdete chybu, pokud byste nad nějakým tématem rádi polemizovali nebo si myslíte, že si zaslouží smířlivější a obecnější tón, pojďte s tím do [issues](https://github.com/honzajavorek/jakpsatapi/issues). Věřím v pluralitu názorů a vzájemné obohacení z věcných diskusí.
@@ -79,6 +75,4 @@ Chcete-li, aby vám Honza odvyprávěl zde sepsané vědomosti naživo, domluvte
 (cc) 2014 Jan Javorek &lt;<a
 href="mailto:mail&#64;honzajavorek.cz">mail&#64;honzajavorek.cz</a>&gt;
 
-Toto dílo podléhá licenci [Creative Commons Uveďte autora-Nevyužívejte dílo komerčně-Zachovejte licenci 3.0 Česko](https://creativecommons.org/licenses/by-nc-sa/3.0/cz/).
-
-(*Nevyužívejte dílo komerčně* neznamená, že zde nabyté vědomosti nesmíte použít na svém komerčním API, ale že nesmíte tyto stránky seskládat do knížky a prodávat.)
+Toto dílo podléhá licenci [Creative Commons Uveďte autora-Zachovejte licenci 3.0 Česko](https://creativecommons.org/licenses/by-sa/3.0/cz/).
