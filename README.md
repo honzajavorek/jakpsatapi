@@ -70,7 +70,7 @@ href="mailto:mail&#64;honzajavorek.cz">mail&#64;honzajavorek.cz</a>.
 
 Chcete-li, aby vám Honza odvyprávěl zde sepsané vědomosti naživo, domluvte se s ním e-mailem na školení nebo přednášce.
 
-### Licence? CC BY-NC-SA
+### Licence? CC BY-SA
 
 (cc) 2014 Jan Javorek &lt;<a
 href="mailto:mail&#64;honzajavorek.cz">mail&#64;honzajavorek.cz</a>&gt;
